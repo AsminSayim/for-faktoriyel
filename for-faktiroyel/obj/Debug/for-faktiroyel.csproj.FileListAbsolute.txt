@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\bin\Debug\for-faktiroyel.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\bin\Debug\for-faktiroyel.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\bin\Debug\for-faktiroyel.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for-faktiroyel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for-faktiroyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for_faktiroyel.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for_faktiroyel.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for-faktiroyel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for-faktiroyel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for-faktiroyel.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\for-faktiroyel\for-faktiroyel\obj\Debug\for-faktiroyel.pdb
